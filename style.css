@@ -22,7 +22,8 @@
 
 @media (max-width:768px) {
 
-  .header { text-align: center;
+  .header { 
+    text-align: center;
   }
 
 }
@@ -48,11 +49,13 @@
   padding: 0px;
 }
 
-.task-item, .title {
+.task-item, 
+.title {
   list-style: none;
 }
 
-.input,.btn{
+.input,
+.btn{
   outline: none;
 }
 
